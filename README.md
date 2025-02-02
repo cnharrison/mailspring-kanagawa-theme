@@ -5,5 +5,5 @@ This is a theme for the excellent [MailSpring](https://www.getmailspring.com/) e
 
 ## Installation
 1) ` git clone https://github.com/cnharrison/mailspring-kanagawa-theme.git`
-2) In MailSpring: Mailspring > Install New Theme. Select the directory you this repo into
+2) In MailSpring: Mailspring > Install New Theme. Select the directory you cloned this repo into
 3) Close and reopen Mailspring
