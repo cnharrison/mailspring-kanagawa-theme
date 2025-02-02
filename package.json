@@ -1,0 +1,8 @@
+{
+  "name": "kanagawa-theme",
+  "displayName": "Kanagawa",
+  "description": "A theme for Mailspring inspired by the Kanagawa color palette for Neovim",
+  "theme": "ui",
+  "version": "1.0.0",
+  "license": "MIT"
+}
